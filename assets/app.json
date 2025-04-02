@@ -1,0 +1,11 @@
+{
+  "name": "hello_test",
+  "grpc": {
+    "server": {
+        "addr": "0.0.0.0:50059"
+    },
+    "client" : {
+        "addr": "0.0.0.0:50055"
+    }
+  }
+}
