@@ -29,3 +29,5 @@ popd
 4. make
 5. Run executed file and enjoy
 ```
+### setup gRPC
+1. Change configuration address in app.json file
