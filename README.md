@@ -1,6 +1,6 @@
 # grpc_server
 
-##% Following steps in this link [install gRPC](https://grpc.io/docs/languages/cpp/quickstart/) or ```enter``` cmd below.
+### Following steps in this link [install gRPC](https://grpc.io/docs/languages/cpp/quickstart/) or ```enter``` cmd below.
 1. ```export MY_INSTALL_DIR=$HOME/.localexport MY_INSTALL_DIR=$HOME/.local```
 2. ```mkdir -p $MY_INSTALL_DIR```
 3. ```export PATH="$MY_INSTALL_DIR/bin:$PATH"```
